@@ -8,7 +8,7 @@ console.log(file);
 console.log(gattimancanti);
 console.log(gattinuovafila);
 
-console.log(`Ci sono ${file} file di gatti e ne mancano ${gattimancanti} per una nuova fila, con un avanzo di ${gattinuovafila}`);
+console.log(`Ci sono ${file} file di gatti e ne mancano ${gattinuovafila} per una nuova fila, con un avanzo di ${gattimancanti}`);
 
 
 
